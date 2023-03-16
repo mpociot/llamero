@@ -32,7 +32,7 @@
 
     <div class="flex flex-col space-y-4">
       <div class="flex items-center justify-between group">
-        <label for="temperature" class="block text-sm font-medium leading-6 text-gray-900">Temperature length</label>
+        <label for="temperature" class="block text-sm font-medium leading-6 text-gray-900">Temperature</label>
         <div>
           <input 
             id="temperature"
